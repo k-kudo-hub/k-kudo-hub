@@ -4,7 +4,6 @@
 
 <!-- introduction -->
 :tokyo_tower: WAKO@program is a Japanese software engineer.
-
 <!-- Github readme stats area -->
 [![WAKO@program's github stats](https://github-readme-stats.vercel.app/api?username=k-kudo-hub&hide=contribs&count_private=true&show_icons=true&theme=vue)](https://github.com/k-kudo-hub/)
 [![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=k-kudo-hub&layout=compact&theme=vue)](https://github.com/k-kudo-hub/)
