@@ -8,3 +8,4 @@
 [![WAKO@program's github stats](https://github-readme-stats.vercel.app/api?username=k-kudo-hub&hide=contribs&count_private=true&show_icons=true&theme=vue)](https://github.com/k-kudo-hub/)
 [![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=k-kudo-hub&layout=compact&theme=vue)](https://github.com/k-kudo-hub/)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=k-kudo-hub)](https://github.com/ryo-ma/github-profile-trophy)
