@@ -7,9 +7,9 @@
 
 ### 🔭 Currently working on
 
-- SRE・オブザーバビリティ領域を中心に活動中（監視基盤の整備、SLI/SLO設計、パフォーマンス改善）
-- フルスタックエンジニア3年 + SRE3年、計6年のWebエンジニアリング経験
-- TypeScript / Ruby を用いたWebアプリケーション開発
+- Focusing on SRE and observability (monitoring infrastructure, SLI/SLO design, performance improvement)
+- 6 years of web engineering experience (3 years as a full-stack engineer, 3 years as an SRE)
+- Building web applications with TypeScript / Ruby
 
 ### 🔗 Connect
 
